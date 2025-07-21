@@ -78,11 +78,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gzzmonk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=gzzmonk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/gzzmonk/gzzmonk/raw/main/dist/github-contribution-grid-snake.svg" alt="contribution snake" />
-</div>
