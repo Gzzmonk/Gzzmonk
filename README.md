@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZlYzVjMzA4cjR0eDBodGI1bzJzZGY2bDU0MHE4bDZob29hZzRzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4dJMJb9SX3L2s3x2A/giphy.gif" width="100%" alt="Anime Header"/>
-</div>
 
 <h1 align="center">Hi 👋, I'm Pravin Sakhare</h1>
 
